@@ -1,0 +1,4 @@
+Extract skills from resume text.
+Compare skills with predefined list.
+Calculate ATS score.
+Show missing skills.

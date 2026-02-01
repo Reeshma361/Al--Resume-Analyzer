@@ -1,0 +1,7 @@
+Prompt Template:
+"Act as a software developer and generate code for ___ using ___."
+
+Prompts Used:
+1. Create a resume analyzer web app using React.
+2. Generate ATS score logic for resumes.
+3. Improve UI using modern CSS.
